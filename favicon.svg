@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="16" fill="#0A0A0A"/>
+  <!-- Stem / Leaf -->
+  <path d="M26 48 C 24 38, 30 32, 32 26" fill="none" stroke="#3257FF" stroke-width="3" stroke-linecap="round"/>
+  <path d="M28 40 C 20 38, 18 32, 24 30 C 28 34, 28 38, 28 40 Z" fill="#3257FF"/>
+  <!-- Rose Blossom / Petals -->
+  <ellipse cx="32" cy="22" rx="14" ry="12" fill="#FF1400"/>
+  <!-- Inner spiral petal details -->
+  <path d="M24 24 C 22 17, 28 12, 34 14 C 40 16, 42 22, 38 27 C 33 30, 26 28, 26 22 C 26 18, 30 16, 34 18 C 36 19, 36 22, 34 23" fill="none" stroke="#FFB4A8" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
