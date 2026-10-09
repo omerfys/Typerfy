@@ -159,13 +159,15 @@ git clone https://github.com/omerfys/Typerfy.git
 cd Typerfy
 ```
 
-### 2. Yerel Sunucuyu Başlatın
+### 2. Tek Tıkla Başlatın (Windows)
+Klasördeki `start.bat` dosyasına çift tıklayarak hem sunucuyu hem de tarayıcıyı anında açabilirsiniz.
+
+### 3. Manuel Olarak Başlatma (Terminal)
 ```bash
 node server.js
 ```
 
-### 3. Tarayıcınızda Açın
-Tarayıcınızı açın ve adrese gidin:
+Tarayıcınızda açın:
 ```text
 http://localhost:3001/
 ```
