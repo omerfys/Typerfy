@@ -24,7 +24,7 @@
 
 > **Typerfy**, tarayıcı üzerinde saf HTML5 Canvas 2D ve JavaScript ile çalışan; yazı yazıldıkça harflerin gövdesinden organik sarmaşıklar, yapraklar, güller, sakura çiçekleri ve deniz canlıları filizlendiren yeni nesil bir **generatif tipografi (generative typography)** ve **hareketli grafik (motion poster)** stüdyosudur.
 
-[🚀 Başlangıç](#-hızlı-başlangıç--kurulum) • [✨ Özellikler](#-özellikler-features) • [🎨 Temalar](#-temalar--görsel-stiller) • [🎬 Dışa Aktarma](#-dışa-aktarma-formatları-export) • [📊 Mimari](#-generatif-motor-mimarisi) • [English Summary](#-english-overview)
+[Başlangıç](#-hızlı-başlangıç--kurulum) • [Özellikler](#-özellikler-features) • [Temalar](#-temalar--görsel-stiller) • [Dışa Aktarma](#-dışa-aktarma-formatları-export) • [Mimari](#-generatif-motor-mimarisi) • [English Summary](#-english-overview)
 
 ---
 
