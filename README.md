@@ -14,6 +14,12 @@
 [![60 FPS](https://img.shields.io/badge/Performance-60%20FPS-3257FF?style=for-the-badge&logo=speedtest&logoColor=white)](https://github.com/omerfys/Typerfy)
 [![Zero Dependency](https://img.shields.io/badge/Dependencies-Zero-brightgreen?style=for-the-badge)](https://github.com/omerfys/Typerfy)
 
+<br><br>
+
+<p align="center">
+  <img src="assets/preview.png" alt="Typerfy Live Generative Typography Preview" width="100%" style="border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);">
+</p>
+
 <br>
 
 > **Typerfy**, tarayıcı üzerinde saf HTML5 Canvas 2D ve JavaScript ile çalışan; yazı yazıldıkça harflerin gövdesinden organik sarmaşıklar, yapraklar, güller, sakura çiçekleri ve deniz canlıları filizlendiren yeni nesil bir **generatif tipografi (generative typography)** ve **hareketli grafik (motion poster)** stüdyosudur.
