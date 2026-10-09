@@ -73,22 +73,22 @@ Typerfy'nin kalbinde, glif koordinat haritalaması, spline eğri fiziği ve par�
 
 ```mermaid
 flowchart TD
-    A["⌨️ Kullanıcı Girişi / Klavye Olayı (Keyboard & Text Engine)"] --> B["🔤 Glif & Font Analizcisi (Glyph Coordinates & Metrics)"]
-    B --> C["⚡ Yay & Fizik Motoru (Spring Damping & Kinetic Layout)"]
+    A["Kullanıcı Girişi / Klavye Olayı (Keyboard & Text Engine)"] --> B["Glif & Font Analizcisi (Glyph Coordinates & Metrics)"]
+    B --> C["Yay & Fizik Motoru (Spring Damping & Kinetic Layout)"]
     
-    C --> D1["🌿 Bitkisel Büyüme Grafiği (Bézier Trajectory & Branching)"]
-    C --> D2["🌸 Çiçeklenme & Yaprak Simülasyonu (Sprout & Petal Geometry)"]
-    C --> D3["🦋 Canlı & Ziyaretçi Sistemi (Fauna / Visitor Physics)"]
+    C --> D1["Bitkisel Büyüme Grafiği (Bézier Trajectory & Branching)"]
+    C --> D2["Çiçeklenme & Yaprak Simülasyonu (Sprout & Petal Geometry)"]
+    C --> D3["Canlı & Ziyaretçi Sistemi (Fauna / Visitor Physics)"]
     
-    D1 --> E["🎨 Katman Dokuma & Gölgelendirme (Layer Weaving & Glow Pipeline)"]
+    D1 --> E["Katman Dokuma & Gölgelendirme (Layer Weaving & Glow Pipeline)"]
     D2 --> E
     D3 --> E
     
-    E --> F["🖥️ 60 FPS HTML5 Canvas 2D Render Motoru"]
+    E --> F["60 FPS HTML5 Canvas 2D Render Motoru"]
     
-    F --> G1["🖼️ Ultra-HD PNG Render"]
-    F --> G2["📐 Vektörel SVG Export"]
-    F --> G3["🎬 60 FPS MP4 / WebM Kaydedici"]
+    F --> G1["Ultra-HD PNG Render"]
+    F --> G2["Vektörel SVG Export"]
+    F --> G3["60 FPS MP4 / WebM Kaydedici"]
 ```
 
 ---
